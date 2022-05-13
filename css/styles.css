@@ -2,8 +2,27 @@ body {
   font-family: 'Satisfy', cursive;
 }
 
+.header-txt {
+  font-size: 100px;
+}
+
+.subtitle-txt {
+  font-size: 50px;
+}
+
+.button-txt {
+  font-size: 50px;
+}
+
+.body-txt {
+  font-size: 70px;
+}
+
+.footer-txt {
+  font-size: 50px;
+}
 .joke{
   resize:none;
-  height: 200px;
+  height: 1280px;
   width: 100%;
 }
